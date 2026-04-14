@@ -1,0 +1,18 @@
+.sidebar-icons {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.sidebar-icons a {
+  text-decorations: none;
+  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.sidebar-icons img {
+  width: 18px;
+  height: 18px;
+}
