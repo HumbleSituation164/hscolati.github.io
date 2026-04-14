@@ -1,0 +1,26 @@
+<header>
+
+  <!-- LOGO -->
+  {% if site.logo %}
+    <img src="{{ site.logo }}" alt="Logo" style="max-width: 150px; border-radius: 8px;">
+  {% endif %}
+
+  <h1>{{ site.title }}</h1>
+
+  <!-- ICON LINKS -->
+  <div class="sidebar-icons">
+
+    <!-- CV -->
+    <a href="{{ '/cv/' | relative_url }}" title="CV">
+      📄
+    </a>
+
+    <!-- ORCID -->
+    <a href="https://orcid.org/YOUR-ORCID-ID" target="_blank" title="ORCID">
+      <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID">
+    </a>
+
+  </div>
+
+</header>
+    
