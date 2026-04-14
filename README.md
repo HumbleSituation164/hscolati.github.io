@@ -4,4 +4,4 @@ Hi, nice to meet you! I'm Haley Scolati, a Postdoctoral Research Fellow at the b
 
 Because two cross country moves wasn’t enough, I packed my car and cats a third time (this time over a border) to UBC where I am now a Postdoctoral Research Fellow studying the use of foundation models in collaboration with Dr. Geoff Pleiss (UBC Statistics) to explore the chemical space of astrochemical reactions and their processes. In my free time, I enjoy everything outdoors, from hiking to softball and soccer as well as exploring the city for new restaurants and thrift spots.
 
-While this page is under constrcution, please feel free to browse my CV!
+While this page is under construction, please feel free to browse my CV!
